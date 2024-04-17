@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2"
+  xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-AT" original="Weblate Test">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 112397963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WLT File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112397963 - Field 758136617 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WLT File - Field Ending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112397963 - Field 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WLT File - Field File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112397963 - Field 3004095410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Type</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WLT File - Field File Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112397963 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WLT File - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 112397963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 112397963 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT File - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 112397963 - Control 758136617 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ending field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT File - Control Ending - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112397963 - Control 804481195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Name field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT File - Control File Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112397963 - Control 3004095410 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Type field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT File - Control File Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112397963 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT File - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 211070102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Files</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT Files - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 211070102 - Control 758136617 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ending field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT Files - Control Ending - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 211070102 - Control 804481195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Name field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT Files - Control File Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 211070102 - Control 3004095410 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Type field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT Files - Control File Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 211070102 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WLT Files - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Method 716454850 - NamedType 4029045246" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4012789491">
+          <source>App published: Hello world</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Method OnOpenPage - NamedType helloWorldLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the street and number.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 2306852000 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies additional address information.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control Address 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the value of the Amount field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 25700210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the value of the Balance field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control Balance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 2883274974 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the value of the Balance Due field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control Balance Due - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 499448942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the state, province or county as a part of the address.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control County - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 2556136339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the value of the Credit Amount field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control Credit Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 856337278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the value of the Currency Id field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control Currency Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 2796346326 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the value of the Debit Amount field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control Debit Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4012789491 - Control 389645823 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the customer in connection with electronic document sending.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WLT Customer List - Control GLN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 3881206595 - EnumValue 3439294074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Audio</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum WLT FIle Type - EnumValue Audio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3881206595 - EnumValue 1167507281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum WLT FIle Type - EnumValue Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3881206595 - EnumValue 320775665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum WLT FIle Type - EnumValue Image - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3881206595 - EnumValue 4252015506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spreadsheet</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum WLT FIle Type - EnumValue Spreadsheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3881206595 - EnumValue 1821279055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum WLT FIle Type - EnumValue Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3881206595 - EnumValue 4294440508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unknown</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum WLT FIle Type - EnumValue Unknown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3881206595 - EnumValue 691702675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Video</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum WLT FIle Type - EnumValue Video - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

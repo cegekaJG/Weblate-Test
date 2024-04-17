@@ -1,6 +1,9 @@
 {
   "folders": [
     {
+      "path": "Weblate Test"
+    },
+    {
       "path": ".AL-Go"
     },
     {
@@ -14,9 +17,6 @@
     },
     {
       "path": "scripts"
-    },
-    {
-      "path": "Weblate Test"
     }
   ],
   "settings": {
